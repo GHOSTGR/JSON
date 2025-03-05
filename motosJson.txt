@@ -1,0 +1,49 @@
+{
+  "motos": [
+    {
+      "id": 1,
+      "marca": "Honda",
+      "modelo": "CBR600RR",
+      "año": 2021,
+      "cilindrada": "600cc",
+      "tipo": "Deportiva",
+      "precio": 12000
+    },
+    {
+      "id": 2,
+      "marca": "Yamaha",
+      "modelo": "MT-07",
+      "año": 2022,
+      "cilindrada": "689cc",
+      "tipo": "Naked",
+      "precio": 8500
+    },
+    {
+      "id": 3,
+      "marca": "Kawasaki",
+      "modelo": "Ninja 400",
+      "año": 2023,
+      "cilindrada": "399cc",
+      "tipo": "Deportiva",
+      "precio": 5500
+    },
+    {
+      "id": 4,
+      "marca": "Ducati",
+      "modelo": "Panigale V4",
+      "año": 2022,
+      "cilindrada": "1103cc",
+      "tipo": "Deportiva",
+      "precio": 25000
+    },
+    {
+      "id": 5,
+      "marca": "Harley-Davidson",
+      "modelo": "Street Glide",
+      "año": 2021,
+      "cilindrada": "1746cc",
+      "tipo": "Cruiser",
+      "precio": 22000
+    }
+  ]
+}
